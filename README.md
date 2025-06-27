@@ -4,7 +4,7 @@ If ran from the .exe it will open into your terminals default location. It is be
 
 To run multithreaded (This is slower on most CPUs):
 ```pwsh
-fdtdm_1.exe --m --bench
+fdtdm_1.exe --m
 ```
 
 To run without graphics for accurate simulation timing:
