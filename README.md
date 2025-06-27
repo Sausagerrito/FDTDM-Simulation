@@ -13,6 +13,6 @@ fdtdm_1.exe --bench
 ```
 
 Both:
-```
+```pwsh
 fdtdm_1.exe --m --bench
 ```
